@@ -13,4 +13,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = "jetpack-compose-state"
+rootProject.name = "CodelabState"

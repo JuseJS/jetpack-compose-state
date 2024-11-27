@@ -29,7 +29,7 @@ compose.desktop {
 
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
-            packageName = "jetpack-compose-state"
+            packageName = "CodelabState"
             packageVersion = "1.0.0"
         }
     }
