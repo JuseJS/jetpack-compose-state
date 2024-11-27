@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="882d9e95-7f27-4c41-aad0-c9e5c7fbb79c" name="Changes" comment="Primer apartado del codelab">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/WaterCounter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/WaterCounter.kt" afterDir="false" />
-    </list>
+    <list default="true" id="882d9e95-7f27-4c41-aad0-c9e5c7fbb79c" name="Changes" comment="Cuarto apartado del codelab" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,11 +60,20 @@
       <option name="project" value="LOCAL" />
       <updated>1732712319544</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Cuarto apartado del codelab">
+      <option name="closed" value="true" />
+      <created>1732712608666</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732712608666</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer apartado del codelab" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primer apartado del codelab" />
+    <MESSAGE value="Cuarto apartado del codelab" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cuarto apartado del codelab" />
   </component>
 </project>
